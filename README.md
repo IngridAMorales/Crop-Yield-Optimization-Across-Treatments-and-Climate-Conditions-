@@ -1,9 +1,15 @@
 🌱	Happy earth = happy humans 
+
 🌱	 Maintaining soil health is imperative for farmers to increase crop productivity and profitability while improving the environment
+
 🌱	How do we find the most optimal treatment for improving soil health? 
+
 🌱	Will maximizing soil health increase crop yield? 
+
 🌱	The Morton National Wind Erosion Research Network site is managed by the USDA Northern Great Plains Research Laboratory (NGPRL) and is part of the Long Term Agro-ecosystem Research (LTAR) network
+
 🌱	The Soil Conservation District has provided land for NGPRL scientists to address production and environmental problems associated with dryland cropping systems
+
 🌱  Dataset: https://catalog.data.gov/dataset/data-from-crop-and-weather-dependent-yield-and-wind-erosion-benefits-from-a-conservation-p
 🌱  This dataset has two type of treatments: Aspirational and Business as Usual. 
 
